@@ -1,8 +1,4 @@
 Siraj Hassan
-hassa340
-CSCI 4211
-Programming project
-
 
 How to run: (made with Python3)
 
