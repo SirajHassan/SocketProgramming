@@ -38,10 +38,10 @@ Methodology:
   port it found. The peer has two sockets. A connection socket, which it uses
   to join the p2p network, and a listening socket, which other peers can join the
   network with. Also information is sent to and from both sockets.
+  
+  Press ^C to stop
 
   Notes/assumptions:
    -   Topology is shown in the form [ID, IP , PORT]
    -  'topo' will make the neighbors on each peer show up on the terminal
-   -   I did not have phase 2 done in my project.
-   -   I could not get a proper 'Stop' function to work on Mac OS.
-   -   So, I did not include it. Please press ^C.
+  
