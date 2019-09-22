@@ -7,7 +7,7 @@ How to run: (made with Python3)
 2) To run multiple peer server, open on each terminal and run: 'python3 peer.py'
 
 3) When starting peer:
-      Enter 1, since I did not finish phase 2.
+      Enter 1
       Enter id
       Enter topo or press Enter
       Enter flag 'p2p'
