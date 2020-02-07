@@ -1,6 +1,3 @@
-#Siraj Hassan
-#CSCI 4211
-#hassa340
 
 #This program creates a peer that can
 #join the p2p network, which it gets information
