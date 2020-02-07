@@ -1,7 +1,5 @@
 
-#Siraj Hassan
-#CSCI 4211
-#hassa340
+
 
 #Meta Server:
     #this program will create a server to
