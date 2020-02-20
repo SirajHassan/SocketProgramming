@@ -13,7 +13,7 @@ How to run: (made with Python3)
       Enter flag 'p2p'
 
 
-Methodology:
+Summary:
   My p2p network has a threaded metaData server that will accept connections
   from peers continiously. The MetaData Server is threaded so
   that is can handle many requests at a time, and can start running again if there is
